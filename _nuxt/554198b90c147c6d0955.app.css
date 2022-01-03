@@ -70,7 +70,7 @@
 
 @font-face {
     font-family: SVN-Kimberley;
-    src: url(/assets/scss/fonts/SVN-Kimberley.ttf) format("truetype");
+    src: url(https://fcb8.vip/assets/scss/fonts/SVN-Kimberley.ttf) format("truetype");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -539,7 +539,7 @@ body {
 }
 
 #tranferWalletModal .modal-dialog .modal-content .modal-body {
-    background-image: url(/assets/img/modal/modal-bg.png);
+    background-image: url(https://fcb8.vip/assets/img/modal/modal-bg.png);
     background-size: auto;
     background-repeat: no-repeat;
     background-position: bottom;
@@ -2025,14 +2025,14 @@ button.swiper-pagination-bullet {
     width: 18px;
     height: 18px;
     cursor: pointer;
-    background-image: url(/assets/img/icon/icon-eye-hide.svg);
+    background-image: url(https://fcb8.vip/assets/img/icon/icon-eye-hide.svg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50%
 }
 
 .form-custom-input i.active {
-    background-image: url(/assets/img/icon/icon-eye.svg)
+    background-image: url(https://fcb8.vip/assets/img/icon/icon-eye.svg)
 }
 
 .form-custom-input i.coin {
@@ -2493,7 +2493,7 @@ button.swiper-pagination-bullet {
     display: block;
     top: 0;
     left: 0;
-    background-image: url(/assets/img/account/btn-select.png);
+    background-image: url(https://fcb8.vip/assets/img/account/btn-select.png);
     background-repeat: no-repeat;
     background-size: 20px;
     width: 20px;
@@ -2501,7 +2501,7 @@ button.swiper-pagination-bullet {
 }
 
 .form__method-list .form__method-item .form__radio-button input:checked:before {
-    background-image: url(/assets/img/account/btn-select-active.png)
+    background-image: url(https://fcb8.vip/assets/img/account/btn-select-active.png)
 }
 
 .form__method-list .form__method-item .form__radio-button input:checked~span {
@@ -2761,7 +2761,7 @@ button.swiper-pagination-bullet {
     display: block;
     top: 0;
     left: 0;
-    background-image: url(/assets/img/account/btn-select.png);
+    background-image: url(https://fcb8.vip/assets/img/account/btn-select.png);
     background-repeat: no-repeat;
     background-size: 20px;
     width: 20px;
@@ -2769,7 +2769,7 @@ button.swiper-pagination-bullet {
 }
 
 .form__warp-virtual .money-list .money-item .radio-button input:checked:before {
-    background-image: url(/assets/img/account/btn-select-active.png)
+    background-image: url(https://fcb8.vip/assets/img/account/btn-select-active.png)
 }
 
 .form__warp-virtual .money-list .money-item .radio-button input:checked~div .type {
@@ -2962,7 +2962,7 @@ button.swiper-pagination-bullet {
 
 .form__warp-virtual .wrap-bg {
     width: 100%;
-    background-image: url(/assets/img/account/bg-virtual-money.png);
+    background-image: url(https://fcb8.vip/assets/img/account/bg-virtual-money.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     margin-bottom: 31px;
@@ -3110,7 +3110,7 @@ button.swiper-pagination-bullet {
     display: block;
     bottom: -33px;
     left: 45%;
-    background-image: url(/assets/img/account/btn-select.png);
+    background-image: url(https://fcb8.vip/assets/img/account/btn-select.png);
     background-repeat: no-repeat;
     background-size: 20px;
     width: 20px;
@@ -3123,7 +3123,7 @@ button.swiper-pagination-bullet {
 }
 
 .form__telecoms-list .form__telcom-item label input:checked+.form__telecoms-img:before {
-    background-image: url(/assets/img/account/btn-select-active.png)
+    background-image: url(https://fcb8.vip/assets/img/account/btn-select-active.png)
 }
 
 .form__telecoms-list .form__telcom-item input {
@@ -3805,7 +3805,7 @@ picture {
     width: 100%;
     height: 100%;
     content: "";
-    background: url(/_nuxt/img/6873289.png) no-repeat top;
+    background: url(https://fcb8.vip/_nuxt/img/6873289.png) no-repeat top;
     background-size: 100%;
     z-index: -1
 }
@@ -3868,7 +3868,7 @@ picture {
 }
 
 .section--login-register {
-    background: url(/_nuxt/img/d9d7d7c.png) no-repeat 50%;
+    background: url(https://fcb8.vip/_nuxt/img/d9d7d7c.png) no-repeat 50%;
     background-size: cover;
     min-height: 580px;
     padding-bottom: 0
@@ -3886,7 +3886,7 @@ body.scrollbar.modal-open {
 }
 
 .popup-livechat.modal-custom {
-    background: url(/_nuxt/img/4c3b1a6.png) no-repeat 50%;
+    background: url(https://fcb8.vip/_nuxt/img/4c3b1a6.png) no-repeat 50%;
     background-size: 100%;
     border: none
 }
@@ -3902,7 +3902,7 @@ body.scrollbar.modal-open {
     text-indent: -9999999999px;
     height: 32px;
     padding: 0;
-    background: url(/_nuxt/img/f66c0ba.svg) no-repeat 50%;
+    background: url(https://fcb8.vip/_nuxt/img/f66c0ba.svg) no-repeat 50%;
     background-size: cover
 }
 
@@ -4007,7 +4007,7 @@ body.scrollbar.modal-open {
     align-items: center;
     width: 300px;
     height: 53px;
-    background: url(/_nuxt/img/4c3b1a6.png) no-repeat 50%;
+    background: url(https://fcb8.vip/_nuxt/img/4c3b1a6.png) no-repeat 50%;
     background-size: 100%;
     border-radius: 6px 6px 0 0;
     text-align: center;
@@ -5189,7 +5189,7 @@ body.scrollbar.modal-open {
 
 .pagenotfound {
     text-align: center;
-    background: url(/_nuxt/img/7593f45.jpg) no-repeat 50%;
+    background: url(https://fcb8.vip/_nuxt/img/7593f45.jpg) no-repeat 50%;
     -ms-background-size: cover;
     background-size: cover;
     position: relative;
@@ -5460,7 +5460,7 @@ body.scrollbar.modal-open {
 
 @media (min-width:992px) {
     .sport {
-        background: url(/_nuxt/img/923a22b.jpg) no-repeat top;
+        background: url(https://fcb8.vip/_nuxt/img/923a22b.jpg) no-repeat top;
         -ms-background-size: cover;
         background-size: cover
     }
@@ -5590,7 +5590,7 @@ body.scrollbar.modal-open {
 .sport__button {
     width: 222px;
     height: 58px;
-    background: url(/_nuxt/img/6d7bffd.png) no-repeat top;
+    background: url(https://fcb8.vip/_nuxt/img/6d7bffd.png) no-repeat top;
     -ms-background-size: cover;
     background-size: cover;
     font-style: normal;
@@ -5607,13 +5607,13 @@ body.scrollbar.modal-open {
 }
 
 .sport__button--red {
-    background: url(/_nuxt/img/ec20b52.png) no-repeat top;
+    background: url(https://fcb8.vip/_nuxt/img/ec20b52.png) no-repeat top;
     -ms-background-size: cover;
     background-size: cover
 }
 
 .sport__button--green {
-    background: url(/_nuxt/img/46f7846.png) no-repeat top;
+    background: url(https://fcb8.vip/_nuxt/img/46f7846.png) no-repeat top;
     -ms-background-size: cover;
     background-size: cover
 }
@@ -6158,7 +6158,7 @@ body.scrollbar.modal-open {
 
 @media (min-width:992px) {
     .home-banner .isHotMatch .home-banner__pagination {
-        background: url(/_nuxt/img/9b4a66a.png) no-repeat bottom;
+        background: url(https://fcb8.vip/_nuxt/img/9b4a66a.png) no-repeat bottom;
         background-size: 1920px auto
     }
 }
@@ -6317,7 +6317,7 @@ body.scrollbar.modal-open {
 .game-port-item a figure {
     position: relative;
     z-index: 2;
-    background: url(/_nuxt/img/02b7820.png) no-repeat 50%;
+    background: url(https://fcb8.vip/_nuxt/img/02b7820.png) no-repeat 50%;
     background-size: 100%;
     width: 170px;
     height: 170px;
@@ -6366,7 +6366,7 @@ body.scrollbar.modal-open {
     width: 24px;
     height: 18px;
     content: "";
-    background: url(/assets/img/header/icon-hot.svg) no-repeat 50%;
+    background: url(https://fcb8.vip/assets/img/header/icon-hot.svg) no-repeat 50%;
     z-index: 1;
     -webkit-animation: lightAnimation .3s ease-in-out infinite;
     animation: lightAnimation .3s ease-in-out infinite
@@ -6409,7 +6409,7 @@ body.scrollbar.modal-open {
     height: 50px;
     width: 50px;
     top: 43%;
-    background: url(/assets/img/live-casino/arrow-prev.svg) no-repeat 0;
+    background: url(https://fcb8.vip/assets/img/live-casino/arrow-prev.svg) no-repeat 0;
     transition: all .3s
 }
 
@@ -6420,7 +6420,7 @@ body.scrollbar.modal-open {
 
 .game-port__next:hover,
 .game-port__prev:hover {
-    background-image: url(/assets/img/live-casino/arrow-prev-active.svg)
+    background-image: url(https://fcb8.vip/assets/img/live-casino/arrow-prev-active.svg)
 }
 
 .game-port__prev {
@@ -6429,11 +6429,11 @@ body.scrollbar.modal-open {
 
 .game-port__next {
     right: 9%;
-    background: url(/assets/img/live-casino/arrow-next.svg) no-repeat 0
+    background: url(https://fcb8.vip/assets/img/live-casino/arrow-next.svg) no-repeat 0
 }
 
 .game-port__next:hover {
-    background-image: url(/assets/img/live-casino/arrow-next-active.svg)
+    background-image: url(https://fcb8.vip/assets/img/live-casino/arrow-next-active.svg)
 }
 
 .game-port__container.mobile {
@@ -6625,7 +6625,7 @@ body.scrollbar.modal-open {
 .game-hot .game-hot-item a figure {
     position: relative;
     margin: 0;
-    background: url(/_nuxt/img/45ddb3d.png) no-repeat bottom;
+    background: url(https://fcb8.vip/_nuxt/img/45ddb3d.png) no-repeat bottom;
     background-size: 100%;
     padding-top: 131%;
     padding-bottom: 9%
@@ -7784,7 +7784,7 @@ body.scrollbar.modal-open {
     color: #feffff;
     text-shadow: 0 3px 3px rgba(0, 0, 0, .25);
     padding: 10px 20px;
-    background: url(/_nuxt/img/d0cd548.png) no-repeat 0 0;
+    background: url(https://fcb8.vip/_nuxt/img/d0cd548.png) no-repeat 0 0;
     -ms-background-size: cover;
     background-size: cover;
     margin: 0 -2px
@@ -7860,7 +7860,7 @@ body.scrollbar.modal-open {
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    background: url(/_nuxt/img/af8b06b.png) no-repeat 0;
+    background: url(https://fcb8.vip/_nuxt/img/af8b06b.png) no-repeat 0;
     -ms-background-size: cover;
     background-size: cover;
     height: 60px
@@ -7993,7 +7993,7 @@ body.scrollbar.modal-open {
 
 .account__header {
     position: relative;
-    background-image: url(/_nuxt/img/78af54c.jpg);
+    background-image: url(https://fcb8.vip/_nuxt/img/78af54c.jpg);
     background-repeat: no-repeat;
     background-size: 1250px 145px;
     background-position: 50%;
@@ -9815,7 +9815,7 @@ body.scrollbar.modal-open {
     height: 22px;
     transform: translateX(-50%);
     z-index: 0;
-    background-image: url(/_nuxt/img/13622eb.png);
+    background-image: url(https://fcb8.vip/_nuxt/img/13622eb.png);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: 50%
@@ -10522,13 +10522,13 @@ body.scrollbar.modal-open {
 }
 
 .menu-post__prev {
-    background: url(/assets/img/hot-match/prev.png) no-repeat 0;
+    background: url(https://fcb8.vip/assets/img/hot-match/prev.png) no-repeat 0;
     background-size: 12px auto;
     left: -30px
 }
 
 .menu-post__next {
-    background: url(/assets/img/hot-match/next.png) no-repeat 0;
+    background: url(https://fcb8.vip/assets/img/hot-match/next.png) no-repeat 0;
     background-size: 12px auto;
     right: 0
 }
@@ -10645,7 +10645,7 @@ body.scrollbar.modal-open {
     border: none;
     height: 100%;
     width: 42px;
-    background: transparent url(/assets/img/icon/icon-search.png) no-repeat 50%;
+    background: transparent url(https://fcb8.vip/assets/img/icon/icon-search.png) no-repeat 50%;
     background-size: 17px auto
 }
 
@@ -11367,7 +11367,7 @@ body.scrollbar.modal-open {
 
 @media (min-width:992px) {
     .news-view-bg {
-        background: url(/assets/img/news-details/news-detail-bg-1.png) no-repeat top;
+        background: url(https://fcb8.vip/assets/img/news-details/news-detail-bg-1.png) no-repeat top;
         padding-bottom: 80px
     }
 }
@@ -12803,7 +12803,7 @@ body.scrollbar.modal-open {
     display: block;
     width: 378px;
     height: 96px;
-    background: url(/_nuxt/img/5d934ce.png) no-repeat 50%;
+    background: url(https://fcb8.vip/_nuxt/img/5d934ce.png) no-repeat 50%;
     background-size: 378px auto;
     transition: all .5s ease
 }
@@ -12926,7 +12926,7 @@ body.scrollbar.modal-open {
 
 @media (max-width:991px) {
     .tabs-list .nav-tabs {
-        background: url(/_nuxt/img/d0468d4.png) no-repeat 0 0;
+        background: url(https://fcb8.vip/_nuxt/img/d0468d4.png) no-repeat 0 0;
         background-size: cover;
         display: block;
         margin: 0
@@ -13183,7 +13183,7 @@ body.scrollbar.modal-open {
 .games-page .tabs>div:first-child {
     margin-bottom: 50px;
     padding: 20px 0;
-    background-image: url(/_nuxt/img/78af54c.jpg);
+    background-image: url(https://fcb8.vip/_nuxt/img/78af54c.jpg);
     background-repeat: no-repeat;
     background-size: 110% 110%;
     background-position: 50%;
@@ -14135,7 +14135,7 @@ body.scrollbar.modal-open {
 
 .banner-games {
     padding: 25px 0;
-    background: url(/_nuxt/img/4e8e3a4.jpg) no-repeat 50%;
+    background: url(https://fcb8.vip/_nuxt/img/4e8e3a4.jpg) no-repeat 50%;
     -ms-background-size: cover;
     background-size: cover
 }
@@ -14964,7 +14964,7 @@ body.scrollbar.modal-open {
 }
 
 .mini-game__icon--baucua {
-    background: url(/_nuxt/img/fb082ba.png) no-repeat 50%;
+    background: url(https://fcb8.vip/_nuxt/img/fb082ba.png) no-repeat 50%;
     background-size: contain
 }
 
@@ -15064,7 +15064,7 @@ body.scrollbar.modal-open {
 }
 
 .mini-game__drag-btn:after {
-    background: url(/_nuxt/img/0506f79.png) no-repeat 50%;
+    background: url(https://fcb8.vip/_nuxt/img/0506f79.png) no-repeat 50%;
     background-size: contain;
     width: 25px;
     height: 25px;
@@ -15168,14 +15168,14 @@ body.scrollbar.modal-open {
 }
 
 .lode {
-    background: url(/_nuxt/img/bdc447a.png) no-repeat top;
+    background: url(https://fcb8.vip/_nuxt/img/bdc447a.png) no-repeat top;
     -ms-background-size: cover;
     background-size: cover
 }
 
 @media (min-width:992px) {
     .lode {
-        background: url(/_nuxt/img/146b1b2.png) no-repeat top
+        background: url(https://fcb8.vip/_nuxt/img/146b1b2.png) no-repeat top
     }
 }
 
@@ -16047,7 +16047,7 @@ body.scrollbar.modal-open {
     text-align: center;
     width: 100%;
     min-height: 300px;
-    background: url(/_nuxt/img/d553429.png) no-repeat 50%
+    background: url(https://fcb8.vip/_nuxt/img/d553429.png) no-repeat 50%
 }
 
 .lode__lucky-number__content-input {
@@ -16163,7 +16163,7 @@ body.scrollbar.modal-open {
         font-weight: 700
     }
     .lode__lucky-number__content {
-        background: url(/_nuxt/img/a5b9e3d.png) no-repeat 50%;
+        background: url(https://fcb8.vip/_nuxt/img/a5b9e3d.png) no-repeat 50%;
         min-height: auto
     }
     .lode__lucky-number__content-input {
@@ -16225,7 +16225,7 @@ body.scrollbar.modal-open {
 }
 
 .game-desktop .container-game {
-    background-image: url(/_nuxt/img/f8b4776.jpeg);
+    background-image: url(https://fcb8.vip/_nuxt/img/f8b4776.jpeg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-position: 50%
@@ -16264,7 +16264,7 @@ body.scrollbar.modal-open {
     display: flex;
     width: 279px;
     height: 105px;
-    background-image: url(/_nuxt/img/ca37b1d.png);
+    background-image: url(https://fcb8.vip/_nuxt/img/ca37b1d.png);
     background-size: cover;
     background-repeat: no-repeat;
     align-items: center
@@ -16298,7 +16298,7 @@ body.scrollbar.modal-open {
     grid-template-rows: repeat(9, 58px);
     width: 900px;
     height: 606px;
-    background-image: url(/_nuxt/img/e09cf98.png);
+    background-image: url(https://fcb8.vip/_nuxt/img/e09cf98.png);
     background-size: cover;
     background-repeat: no-repeat;
     align-content: center
@@ -16327,7 +16327,7 @@ body.scrollbar.modal-open {
     width: 280px;
     height: 493px;
     margin-left: -15px;
-    background-image: url(/_nuxt/img/c2400bc.png);
+    background-image: url(https://fcb8.vip/_nuxt/img/c2400bc.png);
     background-size: contain;
     background-repeat: no-repeat;
     padding: 30px 3% 30px 16px;
@@ -16530,7 +16530,7 @@ body.scrollbar.modal-open {
 
 .game-desktop .container-reward {
     position: relative;
-    background-image: url(/_nuxt/img/f6d1e28.png)
+    background-image: url(https://fcb8.vip/_nuxt/img/f6d1e28.png)
 }
 
 .game-desktop .container-reward,
@@ -16549,7 +16549,7 @@ body.scrollbar.modal-open {
     left: 19%;
     right: 18.2%;
     top: 0;
-    background-image: url(/_nuxt/img/2b3941b.png)
+    background-image: url(https://fcb8.vip/_nuxt/img/2b3941b.png)
 }
 
 .game-desktop .container-reward .ctn-reward .item-snow {
@@ -16581,7 +16581,7 @@ body.scrollbar.modal-open {
     padding-top: 20px;
     margin-bottom: 20px;
     margin-top: 30px;
-    background-image: url(/_nuxt/img/c722f60.png);
+    background-image: url(https://fcb8.vip/_nuxt/img/c722f60.png);
     background-size: 100% 100%;
     background-repeat: no-repeat
 }
@@ -16629,7 +16629,7 @@ body.scrollbar.modal-open {
     padding-top: 5px;
     padding-bottom: 5px;
     flex-direction: column;
-    background-image: url(/_nuxt/img/9f54db8.png);
+    background-image: url(https://fcb8.vip/_nuxt/img/9f54db8.png);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     align-items: center;
@@ -16675,7 +16675,7 @@ body.scrollbar.modal-open {
     position: relative;
     width: 95%;
     height: 100%;
-    background-image: url(/_nuxt/img/f534aa4.png);
+    background-image: url(https://fcb8.vip/_nuxt/img/f534aa4.png);
     background-size: 100% 98%;
     background-repeat: no-repeat
 }
@@ -16808,7 +16808,7 @@ body.scrollbar.modal-open {
     flex: 1;
     flex-direction: row;
     align-items: center;
-    background-image: url(/_nuxt/img/3a12072.png);
+    background-image: url(https://fcb8.vip/_nuxt/img/3a12072.png);
     background-size: 100% 100%;
     background-repeat: no-repeat
 }
@@ -16856,7 +16856,7 @@ body.scrollbar.modal-open {
     flex: 1;
     flex-direction: row;
     align-items: center;
-    background-image: url(/_nuxt/img/81da4af.png);
+    background-image: url(https://fcb8.vip/_nuxt/img/81da4af.png);
     background-size: 100% 100%;
     background-repeat: no-repeat
 }
@@ -16864,7 +16864,7 @@ body.scrollbar.modal-open {
 .game-desktop .container-reward .ctn-intro .ctn-top-play .ctn-list-top .item-top .ic-top {
     width: 16%;
     height: 100%;
-    background: url(/_nuxt/img/d8d4416.png) no-repeat 50%;
+    background: url(https://fcb8.vip/_nuxt/img/d8d4416.png) no-repeat 50%;
     background-size: 100%;
     font-family: SVN-Kimberley;
     font-style: normal;
@@ -16903,15 +16903,15 @@ body.scrollbar.modal-open {
 }
 
 .game-desktop .container-reward .ctn-intro .ctn-top-play .ctn-list-top:nth-child(2) .item-top .ic-top {
-    background-image: url(/_nuxt/img/1aa1a84.png)
+    background-image: url(https://fcb8.vip/_nuxt/img/1aa1a84.png)
 }
 
 .game-desktop .container-reward .ctn-intro .ctn-top-play .ctn-list-top:first-child .item-top .ic-top {
-    background-image: url(/_nuxt/img/2c9d862.png)
+    background-image: url(https://fcb8.vip/_nuxt/img/2c9d862.png)
 }
 
 .game-desktop .container-reward .ctn-intro .ctn-top-play .ctn-list-top.current-user .item-top {
-    background-image: url(/_nuxt/img/b270f08.png)
+    background-image: url(https://fcb8.vip/_nuxt/img/b270f08.png)
 }
 
 .game-desktop .container-reward .ctn-intro .ctn-top-play .ctn-list-top.current-user .item-top .ic-top {
@@ -16949,7 +16949,7 @@ body.scrollbar.modal-open {
     padding: 35px;
     width: 575px;
     margin-left: 20px;
-    background-image: url(/_nuxt/img/b14e5ed.png);
+    background-image: url(https://fcb8.vip/_nuxt/img/b14e5ed.png);
     background-size: 100% 100%;
     background-repeat: no-repeat
 }
@@ -17041,7 +17041,7 @@ body.scrollbar.modal-open {
 }
 
 .game-mobile {
-    background-image: url(/_nuxt/img/3c7c41c.png);
+    background-image: url(https://fcb8.vip/_nuxt/img/3c7c41c.png);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     padding-top: 15px;
@@ -17091,7 +17091,7 @@ body.scrollbar.modal-open {
     display: flex;
     width: 180px;
     height: 70px;
-    background-image: url(/_nuxt/img/ca37b1d.png);
+    background-image: url(https://fcb8.vip/_nuxt/img/ca37b1d.png);
     background-size: cover;
     background-repeat: no-repeat;
     align-items: center
@@ -17134,7 +17134,7 @@ body.scrollbar.modal-open {
     display: flex;
     justify-content: center;
     height: 520px;
-    background-image: url(/_nuxt/img/fa9a237.png);
+    background-image: url(https://fcb8.vip/_nuxt/img/fa9a237.png);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     align-content: center;
@@ -17242,7 +17242,7 @@ body.scrollbar.modal-open {
     display: grid;
     grid-template-columns: 3fr 2fr;
     min-height: 74px;
-    background-image: url(/_nuxt/img/22e7352.png);
+    background-image: url(https://fcb8.vip/_nuxt/img/22e7352.png);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     margin-left: 10px;
@@ -17320,7 +17320,7 @@ body.scrollbar.modal-open {
     display: flex;
     flex-direction: column;
     width: 100%;
-    background-image: url(/_nuxt/img/9584990.png);
+    background-image: url(https://fcb8.vip/_nuxt/img/9584990.png);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     justify-content: center;
@@ -17507,7 +17507,7 @@ body.scrollbar.modal-open {
     align-items: center;
     justify-content: center;
     display: flex;
-    background-image: url(/_nuxt/img/4d86362.png);
+    background-image: url(https://fcb8.vip/_nuxt/img/4d86362.png);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     width: 100%;
@@ -17553,7 +17553,7 @@ body.scrollbar.modal-open {
     width: 94%;
     padding-top: 10px;
     margin-bottom: 10px;
-    background-image: url(/_nuxt/img/c722f60.png);
+    background-image: url(https://fcb8.vip/_nuxt/img/c722f60.png);
     background-size: 100% 100%;
     background-repeat: no-repeat
 }
@@ -17621,7 +17621,7 @@ body.scrollbar.modal-open {
     padding-top: 5px;
     padding-bottom: 5px;
     flex-direction: column;
-    background-image: url(/_nuxt/img/9f54db8.png);
+    background-image: url(https://fcb8.vip/_nuxt/img/9f54db8.png);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     align-items: center;
@@ -17689,7 +17689,7 @@ body.scrollbar.modal-open {
     padding: 15px;
     height: 402px;
     margin: 0 10px 25px;
-    background-image: url(/_nuxt/img/fa9a237.png);
+    background-image: url(https://fcb8.vip/_nuxt/img/fa9a237.png);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     align-content: center
@@ -17814,7 +17814,7 @@ body.scrollbar.modal-open {
     height: 82%;
     align-self: center;
     margin-top: 10%;
-    background-image: url(/_nuxt/img/f534aa4.png);
+    background-image: url(https://fcb8.vip/_nuxt/img/f534aa4.png);
     background-size: 100% 100%;
     background-repeat: no-repeat
 }
@@ -17903,7 +17903,7 @@ body.scrollbar.modal-open {
     flex: 1;
     flex-direction: row;
     align-items: center;
-    background-image: url(/_nuxt/img/3a12072.png);
+    background-image: url(https://fcb8.vip/_nuxt/img/3a12072.png);
     background-size: 100% 100%;
     background-repeat: no-repeat
 }
@@ -17952,7 +17952,7 @@ body.scrollbar.modal-open {
     flex: 1;
     flex-direction: row;
     align-items: center;
-    background-image: url(/_nuxt/img/81da4af.png);
+    background-image: url(https://fcb8.vip/_nuxt/img/81da4af.png);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     padding-right: 10px
@@ -17961,7 +17961,7 @@ body.scrollbar.modal-open {
 .game-modal-mobile .bg-modal-reward .ctn-top .ctn-list-top .item-top .ic-top {
     width: 70px;
     height: 100%;
-    background: url(/_nuxt/img/d8d4416.png) no-repeat 50%;
+    background: url(https://fcb8.vip/_nuxt/img/d8d4416.png) no-repeat 50%;
     background-size: 100%;
     font-family: SVN-Kimberley;
     font-style: normal;
@@ -18003,15 +18003,15 @@ body.scrollbar.modal-open {
 }
 
 .game-modal-mobile .bg-modal-reward .ctn-top .ctn-list-top:first-child .item-top .ic-top {
-    background-image: url(/_nuxt/img/2c9d862.png)
+    background-image: url(https://fcb8.vip/_nuxt/img/2c9d862.png)
 }
 
 .game-modal-mobile .bg-modal-reward .ctn-top .ctn-list-top:nth-child(2) .item-top .ic-top {
-    background-image: url(/_nuxt/img/1aa1a84.png)
+    background-image: url(https://fcb8.vip/_nuxt/img/1aa1a84.png)
 }
 
 .game-modal-mobile .bg-modal-reward .ctn-top .ctn-list-top.current-user .item-top {
-    background-image: url(/_nuxt/img/b270f08.png)
+    background-image: url(https://fcb8.vip/_nuxt/img/b270f08.png)
 }
 
 .game-modal-mobile .bg-modal-reward .ctn-top .ctn-list-top.current-user .item-top .ic-top {
@@ -18090,7 +18090,7 @@ body.scrollbar.modal-open {
     text-align: center;
     padding: 20px 16px;
     font-family: SVN-Kimberley;
-    background-image: url(/_nuxt/img/67b5030.png);
+    background-image: url(https://fcb8.vip/_nuxt/img/67b5030.png);
     background-size: 100% 100%;
     background-repeat: no-repeat
 }
@@ -18192,7 +18192,7 @@ body.scrollbar.modal-open {
     position: relative;
     margin-top: 15%;
     height: 500px;
-    background-image: url(/_nuxt/img/2e361ae.jpeg);
+    background-image: url(https://fcb8.vip/_nuxt/img/2e361ae.jpeg);
     background-size: 101% 101%;
     background-repeat: no-repeat
 }
@@ -18268,7 +18268,7 @@ body.scrollbar.modal-open {
 }
 
 .event-noel .header {
-    background-image: url(/_nuxt/img/033cbc4.png);
+    background-image: url(https://fcb8.vip/_nuxt/img/033cbc4.png);
     background-size: cover;
     background-repeat: no-repeat
 }
@@ -18639,7 +18639,7 @@ body.scrollbar.modal-open {
 }
 
 .event-noel .footer {
-    background-image: url(/_nuxt/img/a1519ec.png);
+    background-image: url(https://fcb8.vip/_nuxt/img/a1519ec.png);
     background-size: cover;
     background-repeat: no-repeat
 }
